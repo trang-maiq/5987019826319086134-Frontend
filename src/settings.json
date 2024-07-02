@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Exciting news! Our blog is launching new features soon. Stay tuned!",
+        "linkText": "Read more details here"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a colorful blend of stories, insights, and adventures with an energetic twist!",
+        "title": "Discover Life with Personal"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Dive into a colorful blend of stories, insights, and adventures with an energetic twist!",
+        "title": "Discover Life with Personal"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Dive into a colorful blend of stories, insights, and adventures with an energetic twist!",
+        "title": "Discover Life with Personal"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a colorful blend of stories, insights, and adventures with an energetic twist!",
+        "title": "Discover Life with Personal"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Dive into a colorful blend of stories, insights, and adventures with an energetic twist!",
+        "title": "Discover Life with Personal"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Dive into a colorful blend of stories, insights, and adventures with an energetic twist!",
+        "title": "Discover Life with Personal"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a colorful blend of stories, insights, and adventures with an energetic twist!",
+        "title": "Discover Life with Personal"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Discover Life with Personal",
+  "subtitle": "Dive into a colorful blend of stories, insights, and adventures with an energetic twist!"
+}
